@@ -1,2 +1,2 @@
-# tensorboard
-uso del tensorboard en tensoflow
+# Tensorboard
+TensorBoard practices
